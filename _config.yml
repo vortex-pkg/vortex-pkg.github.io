@@ -1,2 +1,4 @@
 title: Vortex Package Manager
 description: ⚡ The fast package manager for Node.js
+plugins:
+  - jemoji
